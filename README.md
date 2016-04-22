@@ -1,3 +1,5 @@
+![titleImage](http://quickpress.blob.core.windows.net/zuvuyalink/2015/11/msicon2_3_ttl.jpg)
+
 # Microsoft-Icon-vectorImage
 Microsoft CloudnEnterprise Symbolsのベクター形式（eps、pptx）
 
