@@ -12,7 +12,7 @@ Microsoft系アイコン最新版(Microsoft CloudnEnterprise Symbols v2.3)をベ
 ![Cloud icons v2.3](http://quickpress.blob.core.windows.net/zuvuyalink/2015/11/msicon2_3_01.jpg)
 ![Cloud icons v2.3](http://quickpress.blob.core.windows.net/zuvuyalink/2015/11/msicon2_3_02.jpg)
 ![Enterprise icons v2.3](http://quickpress.blob.core.windows.net/zuvuyalink/2015/11/msicon2_3_03.jpg)
-![GeneralSymbols icons v2.3]http://quickpress.blob.core.windows.net/zuvuyalink/2015/11/msicon2_3_04.jpg)
+![GeneralSymbols icons v2.3](http://quickpress.blob.core.windows.net/zuvuyalink/2015/11/msicon2_3_04.jpg)
 ![Intune icons v2.3](http://quickpress.blob.core.windows.net/zuvuyalink/2015/11/msicon2_3_05.jpg)
 ![OtherMicrosoft icons v2.3](http://quickpress.blob.core.windows.net/zuvuyalink/2015/11/msicon2_3_06.jpg)
 ![system Center icons v2.3](http://quickpress.blob.core.windows.net/zuvuyalink/2015/11/msicon2_3_07.jpg)
