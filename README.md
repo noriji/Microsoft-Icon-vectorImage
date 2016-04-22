@@ -7,6 +7,9 @@ Microsoft CloudnEnterprise Symbolsのベクター形式（eps、pptx）
 Microsoft系アイコン最新版(Microsoft CloudnEnterprise Symbols v2.3)をベクター形式にしました。
 利用規約は本家から落とせるアイコンセット内にあるPDFをご確認ください。
 
+Vector format of Microsoft CloudnEnterprise Symbols v2.3.
+Terms and Conditions refer to the PDF in the icon set that Microsoft has been distributed.
+
 [VisioやPNGのアイコン、利用規約のDownloadはこちら](http://www.microsoft.com/en-us/download/details.aspx?id=41937)
 
 
