@@ -15,7 +15,4 @@ The most recent version of Microsoft System icon (Microsoft CloudnEnterprise Sym
 ## アイコンセットイメージ
 ![Cloud icons v2.41](http://quickpress.blob.core.windows.net/zuvuyalink/2016/07/msicon241_cloud01.jpg)
 ![Cloud icons v2.41](http://quickpress.blob.core.windows.net/zuvuyalink/2016/07/msicon241_cloud02.jpg)
-![Cloud icons v2.41](http://quickpress.blob.core.windows.net/zuvuyalink/2016/07/msicon241_cloud01_0718.jpg)
-![Cloud icons v2.41](http://quickpress.blob.core.windows.net/zuvuyalink/2016/07/msicon241_cloud02_0718.jpg)
-![Cloud icons v2.41](http://quickpress.blob.core.windows.net/zuvuyalink/2016/07/msicon241_cloud03_0718.jpg)
-![Cloud icons v2.41](http://quickpress.blob.core.windows.net/zuvuyalink/2016/07/msicon241_cloud04_0718.jpg)
+
