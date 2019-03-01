@@ -4,11 +4,9 @@
 Microsoft CloudnEnterprise Symbolsのベクター形式（eps、pptx、XD）
 
 # Microsoft CloudnEnterprise Symbols v2.41のベクター形式
-Microsoft系アイコン最新版(Microsoft CloudnEnterprise Symbols）の一部アイコンをベクター形式にしました。
-最新版（2019/03/01現在）「Microsoft_CloudnEnterprise_Symbols_v2.7」のAdobe XD形式のアイコンセットを追加。
+Microsoft系アイコン最新版(Microsoft CloudnEnterprise Symbols）の一部アイコンをベクター形式にしました。  
+最新版（2019/03/01現在）「Microsoft_CloudnEnterprise_Symbols_v2.7」のAdobe XD形式のアイコンセットを追加。  
 利用規約は本家から落とせるアイコンセット内にあるPDFをご確認ください。
-
-The most recent version of Microsoft System icon (Microsoft CloudnEnterprise Symbols v2.41) some icons vector format.
 
 [VisioやPNGのアイコン、利用規約のDownloadはこちら](https://www.microsoft.com/en-us/download/details.aspx?id=41937)
 
